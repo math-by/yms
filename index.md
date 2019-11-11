@@ -12,3 +12,5 @@ On Monday at 17:30, room 79
 14.10.2019 | [Operations and invariants - I](./autumn-2019/notes/invariants-I.pdf)
 21.10.2019 | Homework discussion
 28.10.2019 | [Angles calculation - I](./autumn-2019/notes/angles-I.pdf)
+04.11.2019 | Homework discussion
+11.11.2019 | [Number theory - I](./autumn-2019/notes/nt-I.pdf)
