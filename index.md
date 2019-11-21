@@ -14,3 +14,4 @@ On Monday at 17:30, room 79
 28.10.2019 | [Angles calculation - I](./autumn-2019/notes/angles-I.pdf)
 04.11.2019 | Homework discussion
 11.11.2019 | [Number theory - I](./autumn-2019/notes/nt-I.pdf)
+18.11.2019 | Homework discussion
