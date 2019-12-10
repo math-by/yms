@@ -16,3 +16,5 @@ On Monday at 17:30, room 79
 11.11.2019 | [Number theory - I](./autumn-2019/notes/nt-I.pdf)
 18.11.2019 | Homework discussion
 25.11.2019 | Homework discussion
+02.12.2019 | [Geometry - II](./autumn-2019/notes/ageometry-II.pdf)
+09.12.2019 | Solving problems from BMO 2018/2019 (the third tour)
