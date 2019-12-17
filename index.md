@@ -2,7 +2,7 @@
 
 ### Schedule
 
-See you next year!
+On Monday at 17:30, room 79 (next lesson will be on the 20th of January, 2020)
 
 ### Lecture notes
 
