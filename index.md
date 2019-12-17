@@ -2,7 +2,7 @@
 
 ### Schedule
 
-On Monday at 17:30, room 79
+See you next year!
 
 ### Lecture notes
 
@@ -18,4 +18,4 @@ On Monday at 17:30, room 79
 25.11.2019 | Homework discussion
 02.12.2019 | [Geometry - II](./autumn-2019/notes/ageometry-II.pdf)
 09.12.2019 | Solving problems from BMO 2018/2019 (the third tour)
-16.12.2019 | Homework discussion (the last lesson in this year)
+16.12.2019 | Homework discussion
