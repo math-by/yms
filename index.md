@@ -1,8 +1,22 @@
+## Spring 2020
+
+### Schedule
+
+On Monday at 17:30, room 79
+
+### Lecture notes
+
+**Date** | **Theme**
+---- | -----
+20.01.2020 | Solving problems from BMO 2019/2020 (the third tour)
+27.01.2020 | Algorithms
+
+
 ## Autumn 2019
 
 ### Schedule
 
-On Monday at 17:30, room 79 (next lesson will be on the 20th of January, 2020)
+On Monday at 17:30, room 79
 
 ### Lecture notes
 
