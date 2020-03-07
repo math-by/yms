@@ -11,7 +11,10 @@ On Monday at 17:30, room 79
 20.01.2020 | Solving problems from BMO 2019/2020 (the third tour)
 27.01.2020 | Algorithms
 03.02.2020 | Homework discussion
-
+10.02.2020 | Homework discussion
+17.02.2020 | Homework discussion
+24.02.2020 | Lecture on Hall's theorem - I
+02.03.2020 | Lecture on Hall's theorem - II
 
 ## Autumn 2019
 
