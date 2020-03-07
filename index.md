@@ -8,7 +8,7 @@ On Monday at 17:30, room 79
 
 **Date** | **Theme**
 ---- | -----
-20.01.2020 | Solving problems from BMO 2019/2020 (the third tour)
+20.01.2020 | Solving problems of BMO 2019/2020 (the third tour)
 27.01.2020 | Algorithms
 03.02.2020 | Homework discussion
 10.02.2020 | Homework discussion
