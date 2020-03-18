@@ -4,7 +4,7 @@
 
 On Monday at 17:30, room 79
 
-** Attention! Quarantine is from 09.03 to 06.04 **
+**Attention! Quarantine is from 09.03 to 06.04**
 
 ### Lecture notes
 
